@@ -1,1 +1,14 @@
-
+body{
+    background-color:red ;
+    }
+     h1{ BIJUTERIA 
+    color: white ; ;
+    font-family:arial ;
+    background: Temos várias bijuterias, confira: ;
+    }
+    p{
+    color: purple ;
+    font-family: Geneva ;
+    font-size: 20 ;
+    background: pink ;
+    }
