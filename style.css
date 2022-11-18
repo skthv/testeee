@@ -7,8 +7,9 @@ body{
     background: Temos várias bijuterias, confira: ;
     }
     p{
-    color: purple ;
+    color: burlywood ;
     font-family: Geneva ;
     font-size: 20 ;
+    text-align: central;
     background: whitesmoke ;
     }
